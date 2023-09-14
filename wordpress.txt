@@ -1,3 +1,6 @@
+//install wordpress
+
+
 #1. create the html directory and mount the efs to it
 sudo su
 yum update -y
