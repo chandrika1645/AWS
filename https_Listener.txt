@@ -1,3 +1,5 @@
+//creating https listener for ALB
+
 /* SSL Settings */
 define('FORCE_SSL_ADMIN', true);
 
